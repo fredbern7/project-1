@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "description": ""
   },
-  "host": "https://project-1-t0mj.onrender.com/",
+  "host": "project-1-t0mj.onrender.com",
   "basePath": "/",
   "schemes": [
     "https",
